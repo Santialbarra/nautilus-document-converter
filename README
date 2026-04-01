@@ -13,6 +13,6 @@ Download the [package][dlp] *or* checkout the source:
 Installation
 ------------
 
-    $ sudo add-apt-repositoy ppa:atareao/nautilus-extensions
+    $ sudo add-apt-repository ppa:atareao/nautilus-extensions
     $ sudo apt-get update
     $ sudo apt-get install nautilus-document-converter
